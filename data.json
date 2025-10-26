@@ -1,0 +1,33 @@
+{
+  "company": {
+    "name": "TechNova Solutions",
+    "location": {
+      "city": "Madrid",
+      "country": "Spain",
+      "address": {
+        "street": "Calle Mayor 123",
+        "postal_code": "28013"
+      }
+    },
+    "employees": [
+      {
+        "id": 1,
+        "name": "Laura Martínez",
+        "role": "Data Engineer",
+        "skills": {
+          "languages": ["Python", "SQL"],
+          "tools": ["Airflow", "Docker", "PostgreSQL"]
+        }
+      },
+      {
+        "id": 2,
+        "name": "David Gómez",
+        "role": "Frontend Developer",
+        "skills": {
+          "languages": ["JavaScript", "TypeScript"],
+          "frameworks": ["React", "Next.js"]
+        }
+      }
+    ]
+  }
+}
